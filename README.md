@@ -27,3 +27,7 @@ These are the step to build Tic-Tac-Toe game using python :
 4. Function to check the winner
 5. Define labels and buttons
 
+Output:
+
+
+![image](https://user-images.githubusercontent.com/78642923/122166252-f7a2f400-ce96-11eb-9b7b-67e6d77fade7.png)
